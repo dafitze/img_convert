@@ -34,7 +34,7 @@ do
     -fill '#FF0000' -fuzz 20% \
     -draw 'color 0,0 floodfill' \
     "$j"
-  done
+done
 
 
 
